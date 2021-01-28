@@ -1,0 +1,9 @@
+FileStream file2 = new FileStream("D:/test.zip", FileMode.Open);
+            GZipStream unzip = new GZipStream(file2, CompressionMode.Decompress);
+            FileStream outFile2 = new FileStream("D:/test2.dat", FileMode.Create);
+            int n;
+            byte[] t2 = new byte[1024];
+            while ((n = unzip.Read(t2, 0, 1024)) != 0)
+                outFile2.Write(t2, 0, n);
+            unzip.Close();
+            outFile2.Close();

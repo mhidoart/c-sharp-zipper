@@ -1,0 +1,38 @@
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\mhido.zipper.exe.config
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\mhido.zipper.exe
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\mhido.zipper.pdb
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.Form1.resources
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.Properties.Resources.resources
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.csproj.GenerateResource.Cache
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.exe
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.pdb
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.Home.resources
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.MultipleFiles.resources
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.FolderCompressor.resources
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\DotNetZip.dll
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\DotNetZip.pdb
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\DotNetZip.xml
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.Entry.resources
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.MultifolderCompressor.resources
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.csprojAssemblyReference.cache
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.csproj.CoreCompileInputs.cache
+C:\Users\zrs\Desktop\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.csproj.CopyComplete
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\mhido.zipper.exe.config
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.exe
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.pdb
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\mhido.zipper.exe
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\mhido.zipper.pdb
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\DotNetZip.dll
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\DotNetZip.pdb
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\bin\Debug\DotNetZip.xml
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.Entry.resources
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.FolderCompressor.resources
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.Form1.resources
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.Home.resources
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.MultifolderCompressor.resources
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.MultipleFiles.resources
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.Properties.Resources.resources
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.csproj.GenerateResource.Cache
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.csprojAssemblyReference.cache
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.csproj.CopyComplete
+D:\Divers\My Projects\prj compressiondecompression\esisa.zipper\mhido.zipper\mhido.zipper\obj\Debug\mhido.zipper.csproj.CoreCompileInputs.cache

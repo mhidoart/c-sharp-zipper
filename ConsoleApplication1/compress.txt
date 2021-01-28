@@ -1,0 +1,24 @@
+
+            try
+            {
+               FileStream file = new FileStream(textBox1.Text, FileMode.Open);
+	                                 
+	                                
+	                                     int taille = (int)file.Length;
+                                         MessageBox.Show(textBox1.Text + "||");
+	                                     byte[] t = new byte[taille];
+	                                     file.Read(t, 0, taille);
+                                       
+	                                    FileStream outFile = new FileStream(textBox3.Text, FileMode.Create);
+	                                    GZipStream zip = new GZipStream(outFile,CompressionMode.Compress);
+                                       
+
+	                                     zip.Write(t, 0, taille);
+	                                     zip.Close();
+                                         MessageBox.Show("hriiiiira");
+
+ }
+ catch (System.Exception ex)
+ {
+     MessageBox.Show("erreur des chemin");
+ }

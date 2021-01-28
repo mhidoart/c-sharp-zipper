@@ -1,0 +1,32 @@
+C:\Users\pppp\Desktop\Partiel\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pppp\Desktop\Partiel\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\pppp\Desktop\Partiel\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\pppp\Desktop\Partiel\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pppp\Desktop\Partiel\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\pppp\Desktop\Partiel\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\pppp\Desktop\Partiel\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\pppp\Desktop\Partiel\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\zrs\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\zrs\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\zrs\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\zrs\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\zrs\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\zrs\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\zrs\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\zrs\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\zrs\Desktop\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\zrs\Desktop\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\zrs\Desktop\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\zrs\Desktop\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\zrs\Desktop\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\zrs\Desktop\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\zrs\Desktop\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\zrs\Desktop\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+D:\Divers\My Projects\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Divers\My Projects\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Divers\My Projects\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Divers\My Projects\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\Divers\My Projects\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+D:\Divers\My Projects\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.cache
+D:\Divers\My Projects\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Divers\My Projects\prj compressiondecompression\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
